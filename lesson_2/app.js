@@ -15,7 +15,7 @@ const seasonData = {
   spring: {
     list: ["March", "April", "May"],
     color: "green",
-    picture: "",
+    picture: "https://plus.unsplash.com/premium_photo-1710310835263-e9c4f1c05c1f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c3ByaW5nJTIwd2FsbHBhcGVyfGVufDB8fDB8fHww",
   },
   summer: {
     list: ["June", "July", "August"],
@@ -26,7 +26,7 @@ const seasonData = {
   autumn: {
     list: ["September", "October", "November"],
     color: "orange",
-    picture: "",
+    picture: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTX6Igkf2PQPcOSqBUm__521G5nWWx4r1kGg&s",
   },
 };
 
